@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-umka-lang
+project: umka-lang
 target: umka
 
 cmds:
-  - cmd: /umka-lang/umka_linux/umka @@
+  - cmd: /umka-lang/umka_linux/umka /test.um
     filepath: /test.um
